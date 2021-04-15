@@ -164,6 +164,32 @@ input.submit {
     border: 2px solid #870529;
 }
 
+/*Image formating*/
+
+img.main-img {
+    border: 3px solid #dfdfdf;
+    width: 98%;
+}
+
+/*Formatting content headers*/
+
+h3 {
+    text-transform: uppercase;
+    display: inline;
+    font-size: 0,8em;
+    padding: 3px;
+}
+
+.spotlight h3 {
+    background: #b10333;
+    color: #fff;
+}
+
+.interview h3 {
+    background: #de003e;
+}
+
+
 
 /*Footer*/
 
