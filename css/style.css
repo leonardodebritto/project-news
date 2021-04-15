@@ -2,23 +2,19 @@
     margin: 0px;
     padding: 0px;
 }
-
 body {
     font-family: "Trebuchet MS", Helvetica, sans-serif;
     background: #fff url(../image/fundo.png) repeat-x;
 ;}
-
 #container {
     width: 750px;
     margin: 0 auto;
 }
-
 #top {
     height: 150px;
     background: url(../image/detalhe-topo.png) no-repeat right top;
     padding-top: 25px;
 }
-
 .logo {
     width: 152px;
     height: 66px;
@@ -34,17 +30,14 @@ ul {
     padding: 0;
     list-style: none;
 }
-
 #top ul {
     margin-top: 30px;
     background: #b10333;
     float: left
 }
-
 #top ul li {
     float: left;
 }
-
 #top ul a {
     font-size: 0.9em;
     display: block;
@@ -54,15 +47,12 @@ ul {
     color: #fff;
     background: url(../image/divisor.png) no-repeat left center;
 }
-
 #top ul .first a {
     background: none;
 }
-
 #top ul a:hover {
     color: #69001b;
 }
-
 body.home #navigation a#home, 
 body.brazil #navigation a#brazil, 
 body.international #navigation a#international, 
@@ -80,28 +70,23 @@ body.science #navigation a#science
     margin-top: 60px;
     background: #f5f5f5;
 }
-
 #lateral {
     width: 180px;
     margin: 0 0 20px -750px;
     float: left;
 }
-
 #primary {
   width: 270px;
   float: left;
   margin: 0 15px 20px 195px;  
 }
-
 #two-columns #primary {
     width: 555px;
 }
-
 #one-column #primary {
     width: 750px;
     margin: 0 0 20px 0;
 }
-
 #secondary {
     width: 270px;
     float: left;
@@ -114,14 +99,12 @@ body.science #navigation a#science
     padding: 5px;
     background: #f3f3f3 url(../image/fundo-caixa.png);
 }
-
 h2 {
     font-size: 1em;
     background: #294c71;
     color: #fff;
     padding: 5px;
 }
-
 .content-box {
     background: #fff;
     padding: 5px;
@@ -138,25 +121,21 @@ h2 {
     color: #000;
     text-decoration: none;
 }
-
 #lateral ul a:hover {
     background: #f9f9f9 url(../image/marcador.png) no-repeat left center;
     padding-left: 20px;
     color: #a1a1a1;
 }
-
 label {
     display:block;
     cursor: pointer;
 }
-
 input {
     padding: 5px;
     width: 125px;
     font-size: 0.9em;
     background: #fff;
 }
-
 input.submit {
     width: 80px;
     color: #fff;
@@ -179,12 +158,10 @@ h3 {
     font-size: 0,8em;
     padding: 3px;
 }
-
 .spotlight h3 {
     background: #b10333;
     color: #fff;
 }
-
 .interview h3 {
     background: #de003e;
 }
@@ -196,14 +173,13 @@ h3 {
     border-bottom: 1px solid #ccc;
     height: 62px;
 }
-
 #news-list li a img {
     float: left;
     margin: 5px; 
 }
-
 #news-list li a {
     text-decoration: none;
+    color: #000;
 }
 #news-list li a h3 {
     font-size: 1em;
@@ -218,7 +194,6 @@ h3 {
     cursor: pointer;
 }
 
-
 /*Footer*/
 
 footer{
@@ -226,7 +201,6 @@ footer{
     background:#294c71 ;
     padding: 20px;
 }
-
 #footer-content{
     width: 750px;
     margin: 0 auto;
